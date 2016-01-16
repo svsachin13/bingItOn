@@ -3,8 +3,8 @@
 
  
 ## Prerequisites
-npm install machine_learning
-npm install natural
+npm install machine_learning,
+npm install natural,
 npm install dclassify
 
 ### Git
