@@ -3,9 +3,9 @@
 
  
 ## Prerequisites
-machine learning node module install
-natural node module install
-dclassify node module install
+npm install machine_learning
+npm install natural
+npm install dclassify
 
 ### Git
 
