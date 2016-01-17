@@ -25,7 +25,6 @@ npm install dclassify
 
 ### Installing dependencies
 
-The application relies upon various node.js tools, such as Node.  You can
-install this by running:
+The application relies upon various node.js tools, such as Node. 
 
  
